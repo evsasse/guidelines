@@ -1,14 +1,14 @@
-# Guidelines do The Iceberg hacker club
+# Guidelines to The Iceberg Hacker Club
 
 ![logo](theiceberg.png)
 
-O objetivo principal desse hacker club é unir pessoas com a mesma paixão por desenvolvimento de software, buscando aproveitar essa união para adquirir novos aprendizados e experiências. Acreditamos que essa paixão por desenvolvimento vem muito próxima a uma grande vontade de aprender e a contribuir para comunidade como um todo.
+The main goal of this Hacker Club is to unite people with the same passion for software development, in search of new experiences and learning opportunities. We believe this passion comes together with a great desire to learn, teach, and help, therefore being able to contribute to the comunity as a whole.
 
-### Objetivos do hacker club:
+### Goals:
 
-* Buscar novos aprendizados e experiências na área de desenvolvimento de sofware/hardware.
-* Reunir os membros do HC todo mês (pode mudar) para desenvolver algum projeto escolhido pelo grupo. A proposta é que possamos discutir sobre diversas idéias previamente em nosso fórum (Ex: Criar um jogo em Kotlin, Desevolver uma api em Rust, etc) e então nos reunir para desenvolver em grupo com o foco principal em aprendizado.
-* Criar um fórum (Discourse) para discutirmos sobre assuntos e artigos relacionados a tecnologia, organizar meetings para aprender algo novo, pedir ajuda sobre algum tópico e o que mais acharmos necessário.
+* Search for new experiences and learning opportunities in software development.
+* Create a forum to: discuss subjects and articles related to tech; arrange meetings; ask for help/suggestions when stuck in a problem; ...
+* Meet the members every month (or so) to develop a project chosen by the group. We can discuss/choose the project ideas freely before the meeting (eg. A mobile game in Kotlin; An API in Rust; ...).
 * Utilizar o conhecimento dos membros para contribuir para projetos open source. Contribuir ativamente para comunidade open source é algo extramamente importante para manter a qualidade da comunidade de desenvolvedores, porém realizar essa tarefa sozinho pode ser muitas vezes desafiadora. Então quebraremos essa barreira buscando contribuir como um grupo :)
 * Compartilhar recursos entre os membros e se possível para comunidade, Ex: E-books, tutoriais, videos, scripts, etc.
 * Disponibilizar todos os projetos feitos no HC como open source nesse github, para que possamos contribuir para comunidade e encorajar outras iniciativas como esta.
